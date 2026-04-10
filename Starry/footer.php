@@ -1,0 +1,93 @@
+
+<meta charset="utf-8">
+    <!-- PAGE TITLE -->
+    <title>Online Voting System</title>
+    <!-- MAKE IT RESPONSIVE -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- SEO -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="keywords" content="">
+    <!-- FAVICON -->
+	<!--<link rel="shortcut icon" href="images/favicon.png" />-->
+    <!-- STYLESHEETS -->
+    <link href="css1/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="css1/animate.min.css" rel="stylesheet" media="screen">
+    <link href="css1/font-awesome.min.css" rel="stylesheet" media="screen">
+    <link href="style.css" rel="stylesheet" media="screen">
+    <link href="css1/options.css" rel="stylesheet" media="screen">
+    <link href="css1/responsive.css" rel="stylesheet" media="screen">
+    <!-- FONTS -->
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:900,300,400,200,800' rel='stylesheet' type='text/css'>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<footer id="footer" class="with-separation-top">
+		  	<aside id="widgets" class="container">
+		  		<div class="row">
+		  			<!-- WIDGET -->
+			  		<div class="col-md-4 widget animate-me fadeInLeft">
+			  			<img src="images/logo-footer.png" id="footer-logo" alt="Logo footer">
+			  			<p>Your favorite source of creative INDIA is HERE.<br>Hire us to GRAB a better Digital Services.</p>
+
+			  		</div>
+		  			<!-- WIDGET -->
+			  		<div class="col-md-4 widget animate-me fadeInUp">
+				  		<h4>Navigation</h4>
+				  		<ul>
+					  		<li><a href="index.html">Home</a></li>
+					  		<li><a href="">Previous Results</a></li>
+					  		<li><a href="">Admin</a></li>
+					  		<li><a href="">Voter</a></li>
+				  		</ul>
+			  		</div>
+		  			<!-- WIDGET -->
+			  		<div class="col-md-4 widget animate-me fadeInRight">
+			  			<h4>Contact</h4>
+			  			<ul class="contact-informations">
+				  			<li class="contact-address">R.N.Shetty Polytechnic Dpt.Computer Science,Belgaum(Kar)-590001</li>
+				  			<li class="contact-phone">+91-5566223355,+91-9966558899</li>
+			  			</ul>
+			  			<ul class="widget-social">
+			  				<!-- ALL ICONS AVAILABLE ->http://fortawesome.github.io/Font-Awesome/icons/#brand-->
+				  			<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+				  			<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+				  			<li><a href="#"><i class="fa fa-skype"></i></a></li>
+				  			<li><a href="#"><i class="fa fa-rss"></i></a></li>
+			  			</ul>
+			  			<!--<a href="contact.html" class="btn btn-default"><i class="fa fa-envelope-o"></i> Contact Form</a>-->
+			  		</div>
+		  		</div>
+		  	</aside>
+		  	<div id="copyright" class="animate-me fadeInUp">
+		  		<div class="container">
+			  		<p>&#169; 2018 All Rights Reserved. Online Voting System  &#8482;
+
+		  		</div>
+		  	</div>
+	  	</footer>
+	  	<!-- END FOOTER -->
+
+	  	<!-- SCROLL TOP -->
+	  	<a href="#" id="scroll-top" class="fadeInRight animate-me"><i class="fa fa-angle-double-up"></i></a>
+  	</div>
+
+    <!-- SCRIPTS -->
+
+	
+	

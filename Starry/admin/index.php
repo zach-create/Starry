@@ -12,6 +12,9 @@
                         <center><h3 class="panel-title">Admin Log In</h3></center>
                     </div>
                     <div class="panel-body">
+                        <div class="alert alert-info" role="alert">
+                            This area is for administrators only.
+                        </div>
                         <form role="form" method = "post" enctype = "multipart/form-data">
                             <fieldset>
 							

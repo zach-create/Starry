@@ -34,7 +34,7 @@
 								
                             </fieldset>
 							
-									<?php include ('login_query.php');?>
+									
                         </form>
                     </div>
                 </div>

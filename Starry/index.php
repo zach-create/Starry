@@ -16,7 +16,7 @@
                         <div class="alert alert-info" role="alert">
                             This login is only for registered voters.
                         </div>
-                        <form role="form" method = "post" enctype = "multipart/form-data">
+                        <form role="form"  enctype = "multipart/form-data">
                             <fieldset>
 							
                                 <div class="form-group">
@@ -35,7 +35,7 @@
 								
                             </fieldset>
 							
-									<?php include ('login_query.php');?>
+									
                         </form>
                         <h4><b>Note:</b> <i>Only registered voters can sign in, and each voter can vote only once.</i></h4>
                     </div>

@@ -15,7 +15,7 @@
                         <div class="alert alert-info" role="alert">
                             This area is for administrators only.
                         </div>
-                        <form role="form" method = "post" enctype = "multipart/form-data">
+                        <form role="form"  enctype = "multipart/form-data">
                             <fieldset>
 							
                                 <div class="form-group">
